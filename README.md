@@ -1,5 +1,3 @@
-# New-Game
+# Arcade Paddle Game
 
-This is an updated ver of my previous Arcade Paddle Game - "Classic arcade game. Written in client-side JavaScript embedded with HTML, between a pair of <script> and </script> tags. This is my first application using JavaScript."
-
-The JavaScript in this version is in en external file.
+Classic arcade paddle game. This is an updated version of my previous Arcade Paddle Game. Instead of the JS being embedded with HTML, between a pair of <script> tags, the JS is in an external file. 
